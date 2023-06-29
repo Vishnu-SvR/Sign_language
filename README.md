@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please contact the project maintainer at [email address].
+If you have any questions, suggestions, or feedback, please contact the project maintainer at vishnusvr2002@gmail.com.
